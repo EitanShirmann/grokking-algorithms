@@ -1,3 +1,6 @@
+# Binary search - Time complexity O(log n)
+
+
 import random
 
 length =1000000000
